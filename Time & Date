@@ -1,0 +1,6 @@
+<a href="http://time.is/Apex" id="time_is_link" rel="nofollow" style="font-size:36px">Time in Apex:</a>
+<span id="Apex_z161" style="font-size:36px"></span>
+<script src="http://widget.time.is/t.js"></script>
+<script>
+time_is_widget.init({Apex_z161:{}});
+</script>
